@@ -1,2 +1,2 @@
 # Flashcard-Generator
-basic and cloze deletion "flash cards" 
+Working with node.js to create 'basic' and 'cloze deletion' 'flash cards.' 
